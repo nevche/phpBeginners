@@ -1,0 +1,9 @@
+Tue.01.Oct.2013|12.Oct.2013|Obiad|789|1
+Tue.01.Oct.2013|13.Oct.2013|Purjola|78|1
+Wed.02.Oct.2013|9.Oct.2013|Masa|869|7
+Wed.02.Oct.2013|10.Oct.2013|Bilet|3.25|3
+Wed.02.Oct.2013|10.Oct.2013|Riza|20|2
+Wed.02.Oct.2013|16.Oct.2013|Telefon de|45.02|4
+Wed.02.Oct.2013|15.Oct.2013|Tok|154.25|5
+Wed.02.Oct.2013|24.Oct.2013|Bira|10|6
+Wed.02.Oct.2013|10.Oct.2013|Fintifliushka|1|7
